@@ -1,3 +1,3 @@
 # lab1
 
-This is my first respository on Github!
+This is my first repository on Github!
